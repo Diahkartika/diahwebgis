@@ -1,0 +1,1 @@
+var json_building_1 = {"type":"FeatureCollection","name":"building_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n3694851808","osm_id":"3694851808","osm_type":"node","addr:city":"Semarang"},"geometry":{"type":"Point","coordinates":[110.4609264,-6.9546961]}}]}
